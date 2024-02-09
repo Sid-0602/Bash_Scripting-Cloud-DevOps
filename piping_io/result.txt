@@ -1,0 +1,60 @@
+-rwxr-xr-x 1 root   root       449792 Feb 24  2022 btrfs-select-super
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 clusterdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 createdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 createlang -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 createuser -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 root   root        21394 Dec  8  2021 deb-systemd-helper
+-rwxr-xr-x 1 root   root         1541 May 16  2020 dh_perl_openssl
+-rwxr-xr-x 1 root   root        21209 Apr  1  2023 dpkg-maintscript-helper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 dropdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 droplang -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 dropuser -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 root   root        17268 Mar 20  2023 foo2ddst-wrapper
+-rwxr-xr-x 1 root   root        18343 Mar 20  2023 foo2hbpl2-wrapper
+-rwxr-xr-x 1 root   root        44024 Mar 20  2023 foo2hiperc
+-rwxr-xr-x 1 root   root        18541 Mar 20  2023 foo2hiperc-wrapper
+-rwxr-xr-x 1 root   root        19204 Mar 20  2023 foo2hp2600-wrapper
+-rwxr-xr-x 1 root   root        20083 Mar 20  2023 foo2lava-wrapper
+-rwxr-xr-x 1 root   root        17871 Mar 20  2023 foo2oak-wrapper
+-rwxr-xr-x 1 root   root        19514 Mar 20  2023 foo2qpdl-wrapper
+-rwxr-xr-x 1 root   root        17603 Mar 20  2023 foo2slx-wrapper
+-rwxr-xr-x 1 root   root        17572 Mar 20  2023 foo2xqx-wrapper
+-rwxr-xr-x 1 root   root        25952 Mar 20  2023 foo2zjs-wrapper
+-rwxr-xr-x 1 root   root        67848 Apr  8  2022 gnome-session-properties
+-rwxr-xr-x 1 root   root        10609 Jun 15  2023 gnome-shell-perf-tool
+-rwxr-xr-x 1 root   root         2718 Mar 28  2022 gnome-terminal.wrapper
+-rwxr-xr-x 1 root   root         7032 Mar 23  2022 gperl
+-rwxr-xr-x 1 root   root        18752 Mar 20  2023 hipercdecode
+-rwxr-xr-x 1 root   root         7222 Dec  2  2021 ispell-wrapper
+-rwxr-xr-x 1 root   root        14578 Mar 24  2022 m2300w-wrapper
+-rwxr-xr-x 1 root   root           70 Mar 25  2022 orca-dm-wrapper
+-rwxr-xr-x 1 root   root        14488 Mar 24  2022 paperconf
+-rwxr-xr-x 2 root   root      3802104 Nov 23 20:26 perl
+-rwxr-xr-x 2 root   root      3802104 Nov 23 20:26 perl5.34.0
+-rwxr-xr-x 1 root   root        14648 Nov 23 20:26 perl5.34-x86_64-linux-gnu
+-rwxr-xr-x 2 root   root        45183 Nov 23 20:26 perlbug
+-rwxr-xr-x 1 root   root          125 Aug 25  2021 perldoc
+-rwxr-xr-x 1 root   root        57920 Feb  6  2022 perli11ndoc
+-rwxr-xr-x 1 root   root        10867 Nov 23 20:26 perlivp
+-rwxr-xr-x 2 root   root        45183 Nov 23 20:26 perlthanks
+-rwxr-xr-x 1 root   root      1520792 Jan 18 01:43 perror
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_archivecleanup -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_basebackup -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pgbench -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_dump -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_dumpall -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_isready -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_receivewal -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_receivexlog -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_recvlogical -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 pg_restore -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 psql -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 root   root      1026568 Nov 30 20:23 qemu-pr-helper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 reindexdb -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 root   root         1321 Jul  6  2023 remmina-file-wrapper
+-rwxr-xr-x 1 root   root         4176 Oct 24 18:37 software-properties-gtk
+-rwxr-xr-x 1 root   root      1566072 Feb 16  2021 supermin
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 vacuumdb -> ../share/postgresql-common/pg_wrapper
+lrwxrwxrwx 1 root   root           37 Feb 10  2022 vacuumlo -> ../share/postgresql-common/pg_wrapper
+-rwxr-xr-x 1 root   root       202200 Mar 25  2022 x11perf
+-rwxr-xr-x 1 root   root         2807 Mar 25  2022 x11perfcomp
